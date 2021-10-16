@@ -1,6 +1,6 @@
 [
     {
-        "id": 2215,
+        "id": 1,
         "Lokasi": "Bandung",
         "Alamat": {
            "Jalan" : "Jln Cibiru"
@@ -11,6 +11,20 @@
             "Warna" : "red",
             "Radius" : 15000,
             "zona" : "Merah"
+        }
+    },
+    {
+        "id": 2,
+        "Lokasi": "Jakarta",
+        "Alamat": {
+           "Jalan" : "Jln Kapuk"
+        },
+        "gps": {
+            "latitude": -7.9032739,
+            "longitude": 107.5731165,
+            "Warna" : "Green",
+            "Radius" : 15000,
+            "zona" : "Hijau"
         }
     }
 ]
