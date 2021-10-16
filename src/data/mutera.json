@@ -1,0 +1,13 @@
+[
+    {
+        "id": 2215,
+        "Lokasi": "Bandung",
+        "Alamat": {
+           "Jalan" : "Jln Cibiru"
+        },
+        "gps": {
+            "latitude": -6.9032739,
+            "longitude": 107.5731165
+        }
+    }
+]
