@@ -7,11 +7,11 @@ function App() {
  
   return  (
    
-    <MapContainer center={[-6.9032739,107.5731165]} zoom={5} scrollWheelZoom={true}>
-      <TileLayer
-        attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
+    <MapContainer attributionControl = {false} center={[-6.9032739,107.5731165]} zoom={5} scrollWheelZoom={true}>
+    <TileLayer
+      attribution='&copy;'
+      url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    />
      
     {mutera.map(mut => (
     <Marker
