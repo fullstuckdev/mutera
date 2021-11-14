@@ -1062,7 +1062,373 @@
             "Radius" : 370,
             "zona" : "Hijau"
         }
+    },
+    {
+        "id": 75,
+        "Lokasi": "Pesanggrahan 5",
+        "Alamat": {
+           "Jalan" : "Pesanggrahan"
+        },
+        "gps": {
+            "latitude": -6.248777,
+            "longitude": 106.758799,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 76,
+        "Lokasi": "Pesanggrahan 6",
+        "Alamat": {
+           "Jalan" : "Pesanggrahan"
+        },
+        "gps": {
+            "latitude": -6.269085,
+            "longitude": 106.761568,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 77,
+        "Lokasi": "Setiabudi",
+        "Alamat": {
+           "Jalan" : "Setiabudi"
+        },
+        "gps": {
+            "latitude": -6.212211,
+            "longitude": 106.825885,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 78,
+        "Lokasi": "Setiabudi 2",
+        "Alamat": {
+           "Jalan" : "Setiabudi"
+        },
+        "gps": {
+            "latitude": -6.227716,
+            "longitude": 106.829925,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 79,
+        "Lokasi": "Tebet",
+        "Alamat": {
+           "Jalan" : "Tebet"
+        },
+        "gps": {
+            "latitude": -6.220585,
+            "longitude": 106.848476,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 80,
+        "Lokasi": "Tebet 2",
+        "Alamat": {
+           "Jalan" : "Tebet"
+        },
+        "gps": {
+            "latitude": -6.232771,
+            "longitude": 106.853770,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 81,
+        "Lokasi": "Cengkareng Barat",
+        "Alamat": {
+           "Jalan" : "Cengkareng Barat"
+        },
+        "gps": {
+            "latitude": -6.123004,
+            "longitude": 106.724225,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 82,
+        "Lokasi": "Cengkareng Barat 2",
+        "Alamat": {
+           "Jalan" : "Cengkareng Barat"
+        },
+        "gps": {
+            "latitude": -6.126208,
+            "longitude": 106.727454,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 83,
+        "Lokasi": "Cengkareng Barat 3",
+        "Alamat": {
+           "Jalan" : "Cengkareng Barat"
+        },
+        "gps": {
+            "latitude": -6.133870,
+            "longitude": 106.723640,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 84,
+        "Lokasi": "Cengkareng Barat 4",
+        "Alamat": {
+           "Jalan" : "Cengkareng Barat"
+        },
+        "gps": {
+            "latitude": -6.142168,
+            "longitude": 106.724223,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 85,
+        "Lokasi": "Cengkareng Barat 5",
+        "Alamat": {
+           "Jalan" : "Cengkareng Barat"
+        },
+        "gps": {
+            "latitude": -6.149339,
+            "longitude": 106.723668,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 86,
+        "Lokasi": "Cengkareng Timur",
+        "Alamat": {
+           "Jalan" : "Cengkareng Timur"
+        },
+        "gps": {
+            "latitude": -6.127368,
+            "longitude": 106.733366,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 87,
+        "Lokasi": "Cengkareng Timur 2",
+        "Alamat": {
+           "Jalan" : "Cengkareng Timur"
+        },
+        "gps": {
+            "latitude": -6.130316,
+            "longitude": 106.732298,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 88,
+        "Lokasi": "Cengkareng Timur 3",
+        "Alamat": {
+           "Jalan" : "Cengkareng Timur"
+        },
+        "gps": {
+            "latitude": -6.134451,
+            "longitude": 106.734954,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 89,
+        "Lokasi": "Cengkareng Timur 4",
+        "Alamat": {
+           "Jalan" : "Cengkareng Timur"
+        },
+        "gps": {
+            "latitude": -6.140931,
+            "longitude": 106.739707,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 90,
+        "Lokasi": "Cengkareng Timur 5",
+        "Alamat": {
+           "Jalan" : "Cengkareng Timur"
+        },
+        "gps": {
+            "latitude": -6.147287,
+            "longitude": 106.731933,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 91,
+        "Lokasi": "Grogol",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.146026,
+            "longitude": 106.787089,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 92,
+        "Lokasi": "Grogol 2",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.146689,
+            "longitude": 106.777743,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 93,
+        "Lokasi": "Grogol 3",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.151535,
+            "longitude": 106.786507,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 94,
+        "Lokasi": "Grogol 4",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.155466,
+            "longitude": 106.784492,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 95,
+        "Lokasi": "Grogol 5",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.160379,
+            "longitude": 106.775107,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 96,
+        "Lokasi": "Grogol 6",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.171265,
+            "longitude": 106.784236,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 97,
+        "Lokasi": "Grogol 6",
+        "Alamat": {
+           "Jalan" : "Grogol Petamburan"
+        },
+        "gps": {
+            "latitude": -6.171265,
+            "longitude": 106.784236,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 98,
+        "Lokasi": "Kalideres",
+        "Alamat": {
+           "Jalan" : "Kalideres"
+        },
+        "gps": {
+            "latitude": -6.117338,
+            "longitude": 106.703757,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 99,
+        "Lokasi": "Kalideres 2",
+        "Alamat": {
+           "Jalan" : "Kalideres"
+        },
+        "gps": {
+            "latitude": -6.136264,
+            "longitude": 106.707117,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 100,
+        "Lokasi": "Kalideres 3",
+        "Alamat": {
+           "Jalan" : "Kalideres"
+        },
+        "gps": {
+            "latitude": -6.160172,
+            "longitude": 106.703913,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
     }
+
+
 
 
 
