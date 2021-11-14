@@ -1426,6 +1426,20 @@
             "Radius" : 370,
             "zona" : "Kuning"
         }
+    },
+    {
+        "id": 101,
+        "Lokasi": "Kantor Baznas RI",
+        "Alamat": {
+           "Jalan" : "Jl. Matraman Raya 142-134, RW.4, Kb. Manggis, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13150"
+        },
+        "gps": {
+            "latitude": -6.210045,
+            "longitude": 106.859610,
+            "Warna" : "Black",
+            "Radius" : 400,
+            "zona" : "Spesial"
+        }
     }
 
 
