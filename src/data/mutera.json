@@ -176,9 +176,9 @@
         "gps": {
             "latitude": -6.185386,
             "longitude": 106.857528,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -204,9 +204,9 @@
         "gps": {
             "latitude": -6.159715,
             "longitude": 106.832811,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -246,9 +246,9 @@
         "gps": {
             "latitude": -6.140423,
             "longitude": 106.827615,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -274,9 +274,9 @@
         "gps": {
             "latitude": -6.188107,
             "longitude": 106.817857,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -288,9 +288,9 @@
         "gps": {
             "latitude": -6.191707,
             "longitude": 106.816245,
-            "Warna" : "Green",
+            "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Merah"
         }
     },
     {
@@ -302,9 +302,9 @@
         "gps": {
             "latitude": -6.197179,
             "longitude": 106.816499,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -344,9 +344,9 @@
         "gps": {
             "latitude": -6.211247,
             "longitude": 106.811409,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -372,9 +372,9 @@
         "gps": {
             "latitude": -6.284059,
             "longitude": 106.793447,
-            "Warna" : "Green",
+            "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Merah"
         }
     },
     {
@@ -386,9 +386,9 @@
         "gps": {
             "latitude": -6.282357,
             "longitude": 106.800220,
-            "Warna" : "Green",
+            "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Merah"
         }
     },
     {
@@ -400,9 +400,9 @@
         "gps": {
             "latitude": -6.281226,
             "longitude": 106.808004,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -428,9 +428,9 @@
         "gps": {
             "latitude": -6.289072,
             "longitude": 106.799466,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -470,9 +470,9 @@
         "gps": {
             "latitude": -6.307211,
             "longitude": 106.846582,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -512,9 +512,9 @@
         "gps": {
             "latitude": -6.331524,
             "longitude": 106.812245,
-            "Warna" : "Green",
+            "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Merah"
         }
     },
     {
@@ -526,9 +526,9 @@
         "gps": {
             "latitude": -6.340370,
             "longitude": 106.827435,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -596,9 +596,9 @@
         "gps": {
             "latitude": -6.237551,
             "longitude": 106.778464,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -610,9 +610,9 @@
         "gps": {
             "latitude": -6.247419,
             "longitude": 106.777101,
-            "Warna" : "Green",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Kuning"
         }
     },
     {
@@ -666,9 +666,9 @@
         "gps": {
             "latitude": -6.278455,
             "longitude": 106.784882,
-            "Warna" : "Green",
+            "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Merah"
         }
     },
     {
@@ -708,11 +708,364 @@
         "gps": {
             "latitude": -6.287959,
             "longitude": 106.772186,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 51,
+        "Lokasi": "Kebayoran Baru",
+        "Alamat": {
+           "Jalan" : "Kebayoran Baru"
+        },
+        "gps": {
+            "latitude": -6.229522,
+            "longitude": 106.809803,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 52,
+        "Lokasi": "Kebayoran Baru 2",
+        "Alamat": {
+           "Jalan" : "Kebayoran Baru"
+        },
+        "gps": {
+            "latitude": -6.243394,
+            "longitude": 106.801561,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 53,
+        "Lokasi": "Kebayoran Baru 3",
+        "Alamat": {
+           "Jalan" : "Kebayoran Baru"
+        },
+        "gps": {
+            "latitude": -6.257751,
+            "longitude": 106.794173,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 54,
+        "Lokasi": "Kebayoran Baru 4",
+        "Alamat": {
+           "Jalan" : "Kebayoran Baru"
+        },
+        "gps": {
+            "latitude": -6.262277,
+            "longitude": 106.804866,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 55,
+        "Lokasi": "Mampang Prapatan",
+        "Alamat": {
+           "Jalan" : "Mampang Prapatan"
+        },
+        "gps": {
+            "latitude": -6.242852,
+            "longitude": 106.830762,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 56,
+        "Lokasi": "Mampang Prapatan 2",
+        "Alamat": {
+           "Jalan" : "Mampang Prapatan"
+        },
+        "gps": {
+            "latitude": -6.231846,
+            "longitude": 106.819325,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 57,
+        "Lokasi": "Mampang Prapatan 3",
+        "Alamat": {
+           "Jalan" : "Mampang Prapatan"
+        },
+        "gps": {
+            "latitude": -6.241427,
+            "longitude": 106.824682,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 58,
+        "Lokasi": "Mampang Prapatan 4",
+        "Alamat": {
+           "Jalan" : "Mampang Prapatan"
+        },
+        "gps": {
+            "latitude": -6.253862,
+            "longitude": 106.817085,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 59,
+        "Lokasi": "Mampang Prapatan 5",
+        "Alamat": {
+           "Jalan" : "Mampang Prapatan"
+        },
+        "gps": {
+            "latitude": -6.266803,
+            "longitude": 106.819453,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 60,
+        "Lokasi": "Mampang Prapatan 6",
+        "Alamat": {
+           "Jalan" : "Mampang Prapatan"
+        },
+        "gps": {
+            "latitude": -6.270965,
+            "longitude": 106.813341,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 61,
+        "Lokasi": "Pancoran",
+        "Alamat": {
+           "Jalan" : "Pancoran"
+        },
+        "gps": {
+            "latitude": -6.245932,
+            "longitude": 106.841793,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 62,
+        "Lokasi": "Pancoran 2",
+        "Alamat": {
+           "Jalan" : "Pancoran"
+        },
+        "gps": {
+            "latitude": -6.247977,
+            "longitude": 106.854102,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 63,
+        "Lokasi": "Pancoran 3",
+        "Alamat": {
+           "Jalan" : "Pancoran"
+        },
+        "gps": {
+            "latitude": -6.254187,
+            "longitude": 106.845350,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 64,
+        "Lokasi": "Pancoran 4",
+        "Alamat": {
+           "Jalan" : "Pancoran"
+        },
+        "gps": {
+            "latitude": -6.258365,
+            "longitude": 106.854948,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 65,
+        "Lokasi": "Pancoran 5",
+        "Alamat": {
+           "Jalan" : "Pancoran"
+        },
+        "gps": {
+            "latitude": -6.253877,
+            "longitude": 106.829225,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 66,
+        "Lokasi": "Pancoran 6",
+        "Alamat": {
+           "Jalan" : "Pancoran"
+        },
+        "gps": {
+            "latitude": -6.262787,
+            "longitude": 106.832926,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 67,
+        "Lokasi": "Pasar Minggu",
+        "Alamat": {
+           "Jalan" : "Pasar Minggu"
+        },
+        "gps": {
+            "latitude": -6.262787,
+            "longitude": 106.832926,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 68,
+        "Lokasi": "Pasar Minggu 2",
+        "Alamat": {
+           "Jalan" : "Pasar Minggu"
+        },
+        "gps": {
+            "latitude": -6.283805,
+            "longitude": 106.841052,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 69,
+        "Lokasi": "Pasar Minggu 3",
+        "Alamat": {
+           "Jalan" : "Pasar Minggu"
+        },
+        "gps": {
+            "latitude": -6.289829,
+            "longitude": 106.838737,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 70,
+        "Lokasi": "Pasar Minggu 4",
+        "Alamat": {
+           "Jalan" : "Pasar Minggu"
+        },
+        "gps": {
+            "latitude": -6.297898,
+            "longitude": 106.838602,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 70,
+        "Lokasi": "Pasar Minggu 4",
+        "Alamat": {
+           "Jalan" : "Pasar Minggu"
+        },
+        "gps": {
+            "latitude": -6.297898,
+            "longitude": 106.838602,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 71,
+        "Lokasi": "Pesanggrahan",
+        "Alamat": {
+           "Jalan" : "Pesanggrahan"
+        },
+        "gps": {
+            "latitude": -6.225179,
+            "longitude": 106.762018,
+            "Warna" : "Yellow",
+            "Radius" : 370,
+            "zona" : "Kuning"
+        }
+    },
+    {
+        "id": 72,
+        "Lokasi": "Pesanggrahan 2",
+        "Alamat": {
+           "Jalan" : "Pesanggrahan"
+        },
+        "gps": {
+            "latitude": -6.225482,
+            "longitude": 106.742862,
+            "Warna" : "Red",
+            "Radius" : 370,
+            "zona" : "Merah"
+        }
+    },
+    {
+        "id": 73,
+        "Lokasi": "Pesanggrahan 3",
+        "Alamat": {
+           "Jalan" : "Pesanggrahan"
+        },
+        "gps": {
+            "latitude": -6.227981,
+            "longitude": 106.753238,
+            "Warna" : "Green",
+            "Radius" : 370,
+            "zona" : "Hijau"
+        }
+    },
+    {
+        "id": 74,
+        "Lokasi": "Pesanggrahan 4",
+        "Alamat": {
+           "Jalan" : "Pesanggrahan"
+        },
+        "gps": {
+            "latitude": -6.235286,
+            "longitude": 106.758061,
             "Warna" : "Green",
             "Radius" : 370,
             "zona" : "Hijau"
         }
     }
+
+
+
 
 
 
