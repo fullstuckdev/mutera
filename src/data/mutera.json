@@ -1,576 +1,576 @@
 [
     {
         "id": 1,
-        "Lokasi": "Kapuk",
+        "Lokasi": "Kapuk - Pasar Darurat",
         "Alamat": {
-           "Jalan" : "Jln Kapuk"
+           "Jalan" : "Jl. Kapuk Darurat No.6, RW.12, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720"
         },
         "gps": {
-            "latitude": -6.2293867,
-            "longitude": 106.6894301,
-            "Warna" : "Green",
+            "latitude": -6.136051,
+            "longitude": 106.750595,
+            "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 2,
-        "Lokasi": "Harmoni",
+        "Lokasi": "Petojo Utara Dekat Harmoni",
         "Alamat": {
-           "Jalan" : "Harmoni Jakarta Pusat"
+           "Jalan" : "RT.4/RW.7, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta"
         },
         "gps": {
-            "latitude": -6.139665,
-            "longitude": 106.758641,
+            "latitude": -6.167861,
+            "longitude": 106.816327,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 3,
-        "Lokasi": "Cempaka Putih",
+        "Lokasi": "Jalan Cempaka Warna - Cempaka Putih",
         "Alamat": {
-           "Jalan" : "Cempaka Putih"
+           "Jalan" : "Jl. Cemp. Warna No.3, RT.8/RW.4, Cemp. Putih Tim., Kec. Cemp. Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10510"
         },
         "gps": {
-            "latitude": -6.180463,
-            "longitude": 106.868116,
-            "Warna" : "Yellow",
+            "latitude": -6.179857,
+            "longitude": 106.867802,
+            "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 4,
-        "Lokasi": "Gambir",
+        "Lokasi": "Petojo Utara - Gambir",
         "Alamat": {
-           "Jalan" : "Gambir"
+           "Jalan" : "Jl. Petojo Utara VII No.18 B, RT.12/RW.3, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130"
         },
         "gps": {
             "latitude": -6.170736,
             "longitude": 106.816908,
-            "Warna" : "Yellow",
+            "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 5,
-        "Lokasi": "Kemayoran",
+        "Lokasi": "Jalan Kemayoran Gempol - Utan Panjang",
         "Alamat": {
-           "Jalan" : "Kemayoran"
+           "Jalan" : "Jl. Kemayoran Gempol No.12, RT.1/RW.1, Utan Panjang, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10630"
         },
         "gps": {
             "latitude": -6.162323,
             "longitude": 106.853977,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 6,
-        "Lokasi": "Menteng",
+        "Lokasi": "Jalan Teuku Umar (Gondangnia) - Menteng",
         "Alamat": {
-           "Jalan" : "Menteng"
+           "Jalan" : "Jl. Teuku Umar, RT.1/RW.1, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350"
         },
         "gps": {
             "latitude": -6.193186,
             "longitude": 106.832976,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 7,
-        "Lokasi": "Menteng 2",
+        "Lokasi": "Panarukan - Menteng ",
         "Alamat": {
-           "Jalan" : "Menteng"
+           "Jalan" : "Jl. Panarukan 7, RT.2/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310"
         },
         "gps": {
             "latitude": -6.198155,
             "longitude": 106.828200,
-            "Warna" : "Red",
+            "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Merah"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 8,
-        "Lokasi": "Senen 1",
+        "Lokasi": "Kwitang Belakang Universitas BSI - Senen",
         "Alamat": {
-           "Jalan" : "Senen"
+           "Jalan" : "Jl. Kramat Kwitang IE No.19, RW.8, Kwitang, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10420"
         },
         "gps": {
-            "latitude": -6.182922,
-            "longitude": 106.842950,
+            "latitude": -6.183035,
+            "longitude": 106.841559,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 9,
-        "Lokasi": "Senen 2",
+        "Lokasi": "Paseban - Senen",
         "Alamat": {
-           "Jalan" : "Senen"
+           "Jalan" : "Jl. Paseban Bar. Gg. I, RT.4/RW.3, Paseban, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10440"
         },
         "gps": {
-            "latitude": -6.193000,
-            "longitude": 106.849034,
+            "latitude": -6.192479,
+            "longitude": 106.849666,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 10,
-        "Lokasi": "Senen 2",
+        "Lokasi": "Pegangsaan - Menteng",
         "Alamat": {
-           "Jalan" : "Senen"
+           "Jalan" : "Jl. Gg. Ampiun No.26, RT.10/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10320"
         },
         "gps": {
-            "latitude": -6.193000,
-            "longitude": 106.849034,
+            "latitude": -6.197137,
+            "longitude": 106.843141,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 11,
-        "Lokasi": "Senen 3",
+        "Lokasi": "Bungur - Senen",
         "Alamat": {
-           "Jalan" : "Senen"
+           "Jalan" : "Jl. Kali Baru Timur III No.11f, RT.1/RW.7, Bungur, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10460"
         },
         "gps": {
             "latitude": -6.171681,
             "longitude": 106.846989,
             "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Merah"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 12,
-        "Lokasi": "Johar Baru",
+        "Lokasi": "Tanah Tinggi - Johar Baru",
         "Alamat": {
-           "Jalan" : "Johar Baru"
+           "Jalan" : "Jl. Irawan 3-11, RW.5, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540"
         },
         "gps": {
             "latitude": -6.177546,
             "longitude": 106.850629,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 13,
-        "Lokasi": "Johar Baru 2",
+        "Lokasi": "Gang SS - Johar Baru",
         "Alamat": {
-           "Jalan" : "Johar Baru"
+           "Jalan" : "Jl. Percetakan Negara IIA No.15, RT.8/RW.4, Johar Baru, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10560"
         },
         "gps": {
             "latitude": -6.185386,
             "longitude": 106.857528,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 14,
-        "Lokasi": "Sawah Besar",
+        "Lokasi": "Taman Lapangan Banteng Pasar Baru - Sawah Besar",
         "Alamat": {
-           "Jalan" : "Sawah Besar"
+           "Jalan" : "Jl. Lap. Banteng Selatan No.2-4, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710"
         },
         "gps": {
             "latitude": -6.169400,
             "longitude": 106.836551,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 15,
-        "Lokasi": "Sawah Besar 2",
+        "Lokasi": "Pasar Baru Dekat SMAN 20 Jakarta - Sawah Besar",
         "Alamat": {
-           "Jalan" : "Sawah Besar"
+           "Jalan" : "Jl. Krekot Bunder II No.32-14, RT.4/RW.5, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710"
         },
         "gps": {
             "latitude": -6.159715,
             "longitude": 106.832811,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 16,
-        "Lokasi": "Sawah Besar 3",
+        "Lokasi": "Sahari Utara - Sawah Besar",
         "Alamat": {
-           "Jalan" : "Sawah Besar"
+           "Jalan" : "Jl. Rajawali Selatan V, RW.2, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10720"
         },
         "gps": {
             "latitude": -6.146033,
             "longitude": 106.839525,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 17,
-        "Lokasi": "Sawah Besar 4",
+        "Lokasi": "Kartini - Sawah Besar",
         "Alamat": {
-           "Jalan" : "Sawah Besar"
+           "Jalan" : "Jl. Dwiwarna Raya 17-23, RT.1/RW.9, Kartini, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10740"
         },
         "gps": {
             "latitude": -6.150168,
             "longitude": 106.829672,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 18,
-        "Lokasi": "Sawah Besar 5",
+        "Lokasi": "Mangga 2 - Sawah Besar",
         "Alamat": {
-           "Jalan" : "Sawah Besar"
+           "Jalan" : "Jl. Semangat No.11, RT.11/RW.8, Mangga Dua Sel., Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10730"
         },
         "gps": {
             "latitude": -6.140423,
             "longitude": 106.827615,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 19,
-        "Lokasi": "Tanah Abang",
+        "Lokasi": "Kp.Bali Kecamatan Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "Jakarta Pusat, RT.1/RW.7, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250"
         },
         "gps": {
             "latitude": -6.184015,
             "longitude": 106.816422,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 20,
-        "Lokasi": "Tanah Abang 2",
+        "Lokasi": "Kb.Kacang Kecamatan Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "Jl. Kb. Kacang 1 No.39, RT.4/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240"
         },
         "gps": {
             "latitude": -6.188107,
             "longitude": 106.817857,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 21,
-        "Lokasi": "Tanah Abang 3",
+        "Lokasi": "Area Sekitar Rusun Tanah Abang Blok 32 - Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "Jakarta Pusat, RW.10, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240"
         },
         "gps": {
             "latitude": -6.191707,
             "longitude": 106.816245,
             "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Merah"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 22,
-        "Lokasi": "Tanah Abang 4",
+        "Lokasi": "Kawasan Dekat Thamrin Residence - Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "Thamrin Residence No. 35 Bk, JL Kebon Mlati, Kebon Kacang, Tanah Abang, RT.3/RW.8, Kb. Melati, Jakarta Pusat, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240"
         },
         "gps": {
             "latitude": -6.197179,
             "longitude": 106.816499,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 23,
-        "Lokasi": "Tanah Abang 5",
+        "Lokasi": "Petamburan - Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "RT.16/RW.3, Petamburan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta"
         },
         "gps": {
             "latitude": -6.193490,
             "longitude": 106.807304,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 24,
-        "Lokasi": "Tanah Abang 6",
+        "Lokasi": "Bendungan Hilir - Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "Jl. Komp. Pam Lama No.9, RT.9/RW.6, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210"
         },
         "gps": {
             "latitude": -6.203521,
             "longitude": 106.806873,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 25,
-        "Lokasi": "Tanah Abang 7",
+        "Lokasi": "Kawasan Mintoharjo - Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "Jl. Bendungan Hilir 14 No.8, RT.4/RW.3, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210"
         },
         "gps": {
             "latitude": -6.211247,
             "longitude": 106.811409,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 26,
-        "Lokasi": "Tanah Abang 8",
+        "Lokasi": "Senayan(GBK) - Tanah Abang",
         "Alamat": {
-           "Jalan" : "Tanah Abang"
+           "Jalan" : "senayan, Gelora Bung Karno, Jl. Tinju No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270"
         },
         "gps": {
             "latitude": -6.223831,
             "longitude": 106.800717,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 27,
-        "Lokasi": "Cilandak",
+        "Lokasi": "Cilandak Barat Dekat SMKN 20 Jakarta - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Jl. Caringin Timur E No.7, RT.13/RW.10, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.284059,
             "longitude": 106.793447,
             "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Merah"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 28,
-        "Lokasi": "Cilandak 2",
+        "Lokasi": "Gaharu Cilandak Barat - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Jl. Gaharu IV 16-54, RT.8/RW.13, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.282357,
             "longitude": 106.800220,
             "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Merah"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 28,
-        "Lokasi": "Cilandak 3",
+        "Lokasi": "Atmaya Residence Cilandak Barat - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Jl. Pelita Dalam No.8, RT.7/RW.11, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.281226,
             "longitude": 106.808004,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 29,
-        "Lokasi": "Cilandak 4",
+        "Lokasi": "Gang Asco Cilandak Barat - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Gg. Asco, RT.8/RW.6, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.288455,
             "longitude": 106.790054,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 30,
-        "Lokasi": "Cilandak 5",
+        "Lokasi": "Cilandak I-III Cilandak Barat - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Jl. Cilandak I 36-32, RT.9/RW.1, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.289072,
             "longitude": 106.799466,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 31,
-        "Lokasi": "Cilandak 6",
+        "Lokasi": "Zamrud I Cilandak Barat - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Jl. Zamrud I Blok C No.6, RT.2/RW.2, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.296739,
             "longitude": 106.802629,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 32,
-        "Lokasi": "Cilandak 7",
+        "Lokasi": "Lb.Bulus I Cilandak Barat - Cilandak",
         "Alamat": {
-           "Jalan" : "Cilandak Barat"
+           "Jalan" : "Jl. Lb. Bulus I 7, RT.4/RW.4, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430"
         },
         "gps": {
             "latitude": -6.297064,
             "longitude": 106.792003,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 33,
-        "Lokasi": "Jagakarsa",
+        "Lokasi": "Tanjung Barat - Jagakarsa",
         "Alamat": {
-           "Jalan" : "Jagakarsa"
+           "Jalan" : "Jl. Teratai VI Blok O No.1, RT.3/RW.2, Tj. Bar., Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530"
         },
         "gps": {
             "latitude": -6.307211,
             "longitude": 106.846582,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 34,
-        "Lokasi": "Jagakarsa 2",
+        "Lokasi": "Lenteng Agung - Jagakarsa",
         "Alamat": {
-           "Jalan" : "Jagakarsa"
+           "Jalan" : "Jl. Guru Muhyin, RT.6/RW.2, Lenteng Agung, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta"
         },
         "gps": {
             "latitude": -6.318398,
             "longitude": 106.838247,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 35,
-        "Lokasi": "Jagakarsa 3",
+        "Lokasi": "Area Sekitar Toko Mebel Rini Furniture - Jagakarsa",
         "Alamat": {
-           "Jalan" : "Jagakarsa"
+           "Jalan" : "Jl. Paso No.9, RT.9/RW.6, Jagakarsa, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12620"
         },
         "gps": {
-            "latitude": -6.315589,
-            "longitude": 106.812567,
+                "latitude": -6.315589,
+                "longitude": 106.812567,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 36,
-        "Lokasi": "Jagakarsa 4",
+        "Lokasi": "Ciganjur - Jagakarsa",
         "Alamat": {
-           "Jalan" : "Jagakarsa"
+           "Jalan" : "Jl. Sadar II 2-94, RT.2/RW.2, Ciganjur, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630"
         },
         "gps": {
             "latitude": -6.331524,
             "longitude": 106.812245,
             "Warna" : "Red",
             "Radius" : 370,
-            "zona" : "Merah"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 37,
-        "Lokasi": "Jagakarsa 5",
+        "Lokasi": "Srengseng Sawah - Jagakarsa",
         "Alamat": {
-           "Jalan" : "Jagakarsa"
+           "Jalan" : "RT.7/RW.5, Srengseng Sawah, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta"
         },
         "gps": {
             "latitude": -6.340370,
             "longitude": 106.827435,
             "Warna" : "Yellow",
             "Radius" : 370,
-            "zona" : "Kuning"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 38,
-        "Lokasi": "Jagakarsa 6",
+        "Lokasi": "Cipedak - Jagakarsa",
         "Alamat": {
-           "Jalan" : "Jagakarsa"
+           "Jalan" : "Jl. Timbul IV G 58-44, RT.8/RW.6, Cipedak, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630"
         },
         "gps": {
             "latitude": -6.353697,
             "longitude": 106.805049,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 39,
-        "Lokasi": "Kebayoran Lama",
+        "Lokasi": "Grogol Utara - Kebayoran Lama",
         "Alamat": {
-           "Jalan" : "Kebayoran Lama"
+           "Jalan" : "Jl. Mirah Kencana 41-8, RT.8/RW.13, Grogol Utara, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12210"
         },
         "gps": {
             "latitude": -6.219849,
             "longitude": 106.786969,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
         "id": 40,
-        "Lokasi": "Kebayoran Lama 2",
+        "Lokasi": "Grogol Selatan - Kebayoran Lama",
         "Alamat": {
-           "Jalan" : "Kebayoran Lama"
+           "Jalan" : "Jl. Lingkaran Putri Hijau 10-29, RT.10/RW.5, Grogol Sel., Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12220"
         },
         "gps": {
             "latitude": -6.226693,
             "longitude": 106.788057,
             "Warna" : "Green",
             "Radius" : 370,
-            "zona" : "Hijau"
+            "zona" : "Radius : 370m dari titik tengah"
         }
     },
     {
@@ -1437,10 +1437,487 @@
             "latitude": -6.210045,
             "longitude": 106.859610,
             "Warna" : "Black",
-            "Radius" : 400,
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 102,
+        "Lokasi": "Kantor Baznas Aceh",
+        "Alamat": {
+           "Jalan" : "Jl. Teuku Nyak Arief No.148-A, Jeulingke, Kec. Syiah Kuala, Kota Banda Aceh, Aceh 23115"
+        },
+        "gps": {
+            "latitude": 5.572826,
+            "longitude": 95.341756,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 103,
+        "Lokasi": "BAZNAS Provinsi Sumatera Utara",
+        "Alamat": {
+           "Jalan" : "Jl. Rumah Sakit H. No.47, Medan Estate, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371"
+        },
+        "gps": {
+            "latitude": 3.613944,
+            "longitude": 98.713732,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 104,
+        "Lokasi": "BAZNAS Provinsi Sumatera Barat",
+        "Alamat": {
+           "Jalan" : "Komp. Masjid Raya Sumatera Barat, Jl. Khatib Sulaiman No.Kel, Alai Parak Kopi, Kec. Padang Utara, Kota Padang, Sumatera Barat 25137"
+        },
+        "gps": {
+            "latitude": -0.924222,
+            "longitude": 100.362144,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 105,
+        "Lokasi": "BAZNAS Provinsi Sumatera Selatan",
+        "Alamat": {
+           "Jalan" : "Jl. Jend. Sudirman No.7094, Sekip Jaya, Kec. Kemuning, Kota Palembang, Sumatera Selatan 30114"
+        },
+        "gps": {
+            "latitude": -2.969935,
+            "longitude": 104.750814,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 106,
+        "Lokasi": "BAZNAS Provinsi Riau",
+        "Alamat": {
+           "Jalan" : "Jl. Neraca No.3a, Sumahilang, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28156"
+        },
+        "gps": {
+            "latitude": 0.527229,
+            "longitude": 101.451339,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 107,
+        "Lokasi": "BAZNAS Provinsi Jambi",
+        "Alamat": {
+           "Jalan" : "Jl. Pekan Baru No.55, Rw. Sari, Kec. Kota Baru, Kota Jambi, Jambi 36361"
+        },
+        "gps": {
+            "latitude": -1.620981,
+            "longitude": 103.577815,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 108,
+        "Lokasi": "BAZNAS Provinsi Bangka Belitung",
+        "Alamat": {
+           "Jalan" : "Jl. R. Abdulah No.206, Opas Indah, Kec. Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684"
+        },
+        "gps": {
+            "latitude": -2.119448,
+            "longitude": 106.114403,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 108,
+        "Lokasi": "BAZNAS Provinsi Bangka Belitung",
+        "Alamat": {
+           "Jalan" : "Jl. R. Abdulah No.206, Opas Indah, Kec. Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684"
+        },
+        "gps": {
+            "latitude": -2.119448,
+            "longitude": 106.114403,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },    
+    {
+        "id": 109,
+        "Lokasi": "BAZNAS Provinsi Bengkulu",
+        "Alamat": {
+           "Jalan" : "Jl. Asahan No.2, Padang Harapan, Kec. Gading Cemp., Kota Bengkulu, Bengkulu 38225"
+        },
+        "gps": {
+            "latitude": -3.820567,
+            "longitude": 102.288063,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 110,
+        "Lokasi": "BAZNAS Provinsi Lampung",
+        "Alamat": {
+           "Jalan" : "Jl. Basuki Rahmat No.26, Sumur Putri, Kec. Telukbetung Selatan, Kota Bandar Lampung, Lampung 35215"
+        },
+        "gps": {
+            "latitude": -5.438730,
+            "longitude": 105.253555,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 111,
+        "Lokasi": "BAZNAS Provinsi DKI Jakarta",
+        "Alamat": {
+           "Jalan" : "Graha Mental Spiritual Lantai 5, Jl. Awaludin II, Tanah Abang, RT.2/RW.17, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130"
+        },
+        "gps": {
+            "latitude": -6.199418,
+            "longitude": 106.812900,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 112,
+        "Lokasi": "BAZNAS Provinsi Jawa Barat",
+        "Alamat": {
+           "Jalan" : "Jl. Soekarno-Hatta No.458, Batununggal, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40266"
+        },
+        "gps": {
+            "latitude": -6.949851,
+            "longitude": 107.625626,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 113,
+        "Lokasi": "BAZNAS Provinsi Banten",
+        "Alamat": {
+           "Jalan" : "Masjid, Jl. Ki Fatoni No.54, Pegantungan, Kec. Serang, Kota Serang, Banten 42112"
+        },
+        "gps": {
+            "latitude": -6.116461,
+            "longitude": 106.156456,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 114,
+        "Lokasi": "BAZNAS Provinsi Jawa Tengah",
+        "Alamat": {
+           "Jalan" : "Jl. Taman Menteri Supeno, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249"
+        },
+        "gps": {
+            "latitude": -6.993584,
+            "longitude": 110.419236,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 115,
+        "Lokasi": "BAZNAS Provinsi D.I Yogyakarta",
+        "Alamat": {
+           "Jalan" : "Komplek Masjid Pangeran Diponegoro Komplek Balaikota Yogyakarta, Jl. Kenari No.56, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55165"
+        },
+        "gps": {
+            "latitude": -7.799283,
+            "longitude": 110.390545,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 116,
+        "Lokasi": "BAZNAS Provinsi Jawa Timur",
+        "Alamat": {
+           "Jalan" : "Jl. Raya Dukuh Kupang No.122-124, Dukuh Pakis, Kec. Dukuhpakis, Kota SBY, Jawa Timur 60225"
+        },
+        "gps": {
+            "latitude": -7.286582,
+            "longitude": 112.713649,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 117,
+        "Lokasi": "BAZNAS Provinsi Kalimantan Barat",
+        "Alamat": {
+           "Jalan" : "Jl. Jenderal Ahmad Yani No.6c, Akcaya, Kec. Pontianak Sel., Kota Pontianak, Kalimantan Barat 78113"
+        },
+        "gps": {
+            "latitude": -0.041285,
+            "longitude": 109.336428,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 118,
+        "Lokasi": "BAZNAS Provinsi Kalimantan Tengah",
+        "Alamat": {
+           "Jalan" : "Jl. Ahmad Yani No.97, Pahandut, Kec. Pahandut, Kota Palangka Raya, Kalimantan Tengah 74874"
+        },
+        "gps": {
+            "latitude": -2.209601,
+            "longitude": 113.938564,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 119,
+        "Lokasi": "BAZNAS Provinsi Kalimantan Selatan",
+        "Alamat": {
+           "Jalan" : "Komp. Masjid Raya Sabilal Muhtadin Banjarmasin. Antasan Besar, Kec. Banjarmasin Tengah, Kota Banjarmasin, Kalimantan Selatan 70123"
+        },
+        "gps": {
+            "latitude": -3.319131,
+            "longitude": 114.590646,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 120,
+        "Lokasi": "BAZNAS Provinsi Kalimantan Timur",
+        "Alamat": {
+           "Jalan" : "Jl. Harmonika No.01, Dadi Mulya, Kec. Samarinda Ulu, Kota Samarinda, Kalimantan Timur 75242"
+        },
+        "gps": {
+            "latitude": -0.490391,
+            "longitude": 117.148586,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 121,
+        "Lokasi": "BAZNAS Provinsi Sulawesi Tengah",
+        "Alamat": {
+           "Jalan" : "Jl. Bantilan No.23, Lere, Kec. Palu Bar., Kota Palu, Sulawesi Tengah 94221"
+        },
+        "gps": {
+            "latitude": -0.891469,
+            "longitude": 119.849384,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 122,
+        "Lokasi": "BAZNAS Provinsi Sulawesi Utara",
+        "Alamat": {
+           "Jalan" : "Kompleks Masid Raya Ahmad Yani, Jl. W.R. Supratman, Lawangirung, Kec. Wenang, Kota Manado, Sulawesi Utara"
+        },
+        "gps": {
+            "latitude": 1.488206,
+            "longitude": 124.843089,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 123,
+        "Lokasi": "BAZNAS Provinsi Sulawesi Selatan",
+        "Alamat": {
+           "Jalan" : "Jl. Masjid Raya No.55, Baraya, Kec. Bontoala, Kota Makassar, Sulawesi Selatan 90211"
+        },
+        "gps": {
+            "latitude": -5.131021,
+            "longitude": 119.424245,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 124,
+        "Lokasi": "BAZNAS Provinsi Sulawesi Tenggara",
+        "Alamat": {
+           "Jalan" : "Jl. Perkantoran Bumi Praja, Anduonohu, Poasia, Kota Kendari, Sulawesi Tenggara 93231"
+        },
+        "gps": {
+            "latitude": -4.021140,
+            "longitude": 122.539471,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 125,
+        "Lokasi": "BAZNAS Provinsi Sulawesi Barat",
+        "Alamat": {
+           "Jalan" : "Jl. H.A. Malik P. Endeng(Rangas), Kec. Simboro Dan Kepulauan, Kabupaten Mamuju, Sulawesi Barat 91512"
+        },
+        "gps": {
+            "latitude": -2.683098,
+            "longitude": 118.858214,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 126,
+        "Lokasi": "BAZNAS Provinsi Gorontalo",
+        "Alamat": {
+           "Jalan" : "d.a. Kanwil Kementerian Agama Jl. Poigar Molosipat, Wongkaditi Bar., Kota Utara, Kota Gorontalo, Gorontalo 96128"
+        },
+        "gps": {
+            "latitude": 0.564303,
+            "longitude": 123.079186,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 127,
+        "Lokasi": "BAZNAS Provinsi Bali",
+        "Alamat": {
+           "Jalan" : "Jl. Jaya Giri XXII No.5, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80234"
+        },
+        "gps": {
+            "latitude": -8.658603,
+            "longitude": 115.228192,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 128,
+        "Lokasi": "BAZNAS Provinsi Nusa Tenggara Barat",
+        "Alamat": {
+           "Jalan" : "Masjid Al Amin, Komplek Kantor Gubernur NTB, Jl. Pejanggik No.12, Gomong, Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar. 83122"
+        },
+        "gps": {
+            "latitude": -8.579942,
+            "longitude": 116.100683,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 129,
+        "Lokasi": "BAZNAS Provinsi Nusa Tenggara Timur",
+        "Alamat": {
+           "Jalan" : "Jl. Raya El-Tari No. 03, Fontein, Kec. Kota Raja, Kota Kupang, Nusa Tenggara Timur."
+        },
+        "gps": {
+            "latitude": -10.164654,
+            "longitude": 123.579520,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 130,
+        "Lokasi": "BAZNAS Provinsi Maluku",
+        "Alamat": {
+           "Jalan" : "Jl. Sultan M. Djabir Sjah, Maluku Utara."
+        },
+        "gps": {
+            "latitude": 0.788468,
+            "longitude": 127.390266,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 131,
+        "Lokasi": "BAZNAS Provinsi Maluku Utara",
+        "Alamat": {
+           "Jalan" : "Jl. Jati Lurus No.Kel, Mangga Dua, Ternate Tengah, Kota Ternate, Maluku Utara 97712."
+        },
+        "gps": {
+            "latitude": 0.773972,
+            "longitude": 127.374874,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 132,
+        "Lokasi": "BAZNAS Provinsi Papua",
+        "Alamat": {
+           "Jalan" : "Jl. Raya Waena Sentani No.KM 17, Waena, Heram, Kota Jayapura, Papua 99351."
+        },
+        "gps": {
+            "latitude": -2.594157,
+            "longitude": 140.629905,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 133,
+        "Lokasi": "BAZNAS Provinsi Papua Barat",
+        "Alamat": {
+           "Jalan" : "Jl. Trikora Wosi, Ruko Haji Bauw, Wosi, Manokwari Bar., Kabupaten Manokwari, Papua Bar. 98312."
+        },
+        "gps": {
+            "latitude": -2.594144,
+            "longitude": 140.629867,
+            "Warna" : "Black",
+            "Radius" : 0,
+            "zona" : "Spesial"
+        }
+    },
+    {
+        "id": 134,
+        "Lokasi": "BAZNAS Provinsi Kepulauan Riau",
+        "Alamat": {
+           "Jalan" : "Komplek Masjid Raya Nur Ilahi, Dompak, Bukit Bestari, Kota Tanjung Pinang, Kepulauan Riau."
+        },
+        "gps": {
+            "latitude": 0.884464,
+            "longitude": 104.453813,
+            "Warna" : "Black",
+            "Radius" : 0,
             "zona" : "Spesial"
         }
     }
+
 
 
 
